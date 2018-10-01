@@ -55,10 +55,16 @@ More information on [GatsbyJS.org](https://www.gatsbyjs.org/tutorial/part-one)
 Install the starter using Gatsby Cli `gatsby new` command.
 
 ```text
-gatsby new https://github.com/alexnuttinck/gatsby-lepressoir.git
+gatsby new [NEW_SITE_DIRECTORY_FOR_YOUR_BLOG] https://github.com/alexnuttinck/gatsby-lepressoir.git
 ```
 
-Go into the newly created directory and run
+Go into the newly created directory
+
+```text
+cd gatsby-lepressoir
+```
+
+and run
 
 ```text
 gatsby develop
@@ -93,12 +99,24 @@ FB_APP_ID=...
 
 You can test locally by using `vagrant`. See the Vagrantfile.
 
-```
+```text
 vagrant up
 ```
 
-```
+```text
 vagrant ssh
+```
+
+```text
+cd gatsby-lepressoir
+```
+
+```text
+npm install
+```
+
+```
+gatsby develop -H 0.0.0.0
 ```
 
 * gatsby develop — Gatsby will start a hot-reloading development environment accessible at localhost:8000
@@ -133,3 +151,15 @@ Try editing the javascript pages in src/pages. Saved changes will live reload in
 ## Sources
 
 https://github.com/greglobinski/gatsby-starter-hero-blog
+
+[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
+[prs]: http://makeapullrequest.com
+[tag-badge]: https://img.shields.io/github/tag/alexnuttinck/gatsby-lepressoir.svg
+[tag]: https://github.com/alexnuttinck/gatsby-lepressoir
+[stars-badge]: https://img.shields.io/github/stars/alexnuttinck/gatsby-lepressoir.svg
+[stars]: https://github.com/alexnuttinck/gatsby-lepressoir/stargazers
+[contributors-badge]: https://img.shields.io/github/contributors/galexnuttinck/gatsby-lepressoir.svg
+[prettier-badge]: https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square
+[prettier]: https://github.com/prettier/prettier
+[mit-badge]: https://img.shields.io/github/license/alexnuttinck/gatsby-lepressoir.svg
+[mit]: https://github.com/alexnuttinck/gatsby-lepressoir/blob/master/LICENSE
