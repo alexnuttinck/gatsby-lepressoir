@@ -1,6 +1,6 @@
 # Le Pressoir Gembloux
 
-[![GitHub license](https://img.shields.io/github/license/alexnuttinck/gatsby-lepressoir.svg](https://github.com/alexnuttinck/gatsby-lepressoir/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/alexnuttinck/gatsby-lepressoir.svg)](https://github.com/alexnuttinck/gatsby-lepressoir/blob/master/LICENSE)
 [![GitHub tag](https://img.shields.io/github/tag/alexnuttinck/gatsby-lepressoir.svg)](https://github.com/alexnuttinck/gatsby-lepressoir)
 [![GitHub stars](https://img.shields.io/github/stars/alexnuttinck/gatsby-lepressoir.svg)](https://github.com/alexnuttinck/gatsby-lepressoir/stargazers)
 ![GitHub contributors](https://img.shields.io/github/contributors/alexnuttinck/gatsby-lepressoir.svg)
