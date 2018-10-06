@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**Alexandre Nuttinck** is a research engineer at CETIC, an applied research center in Belgium. He received a master’s degree in computer science, from the University of Namur, Belgium, in 2017. His main fields of interest concern cloud computing, configuration management, and DevOps techniques.

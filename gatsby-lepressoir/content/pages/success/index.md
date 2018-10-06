@@ -2,5 +2,5 @@
 title: Success
 ---
 
-Thank you. <br />
-I will answer to your message as soon as possible.
+Merci. <br />
+Nous répondrons à votre message des les plus brefs délais.

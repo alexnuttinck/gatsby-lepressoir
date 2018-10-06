@@ -1,28 +1,28 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "Le Pressoir Gembloux", // <title>
+  shortSiteTitle: "Le Pressoir Gembloux", // <title> ending for posts and pages
+  siteDescription: "Le Pressoir",
+  siteUrl: "lepressoirgembloux.be",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "alexandre nuttinck",
+  authorTwitterAccount: "lepressoirgembloux",
   // info
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "Le Pressoir Gembloux",
+  headerSubTitle: "est un magasin spécialisé dans la vente de vins et autres alcools (caviste).",
   // manifest.json
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "Le Pressoir Gembloux",
+  manifestShortName: "LePressoir", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
   manifestDisplay: "standalone",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
+    { name: "github", url: "https://github.com/alexnuttinck" },
     { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "facebook", url: "http://facebook.com/lepressoirgembloux" }
   ]
 };

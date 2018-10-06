@@ -1,11 +1,11 @@
 # Le Pressoir Gembloux
 
-[![GitHub license][mit-badge]][mit]
-[![GitHub tag][tag-badge]][tag]
-[![GitHub stars][stars-badge]][stars]
-![contributors][contributors-badge]
-[![PRs Welcome][prs-badge]][prs]
-[![code style prettier][prettier-badge]][prettier]
+[![GitHub license](https://img.shields.io/github/license/alexnuttinck/gatsby-lepressoir.svg](https://github.com/alexnuttinck/gatsby-lepressoir/blob/master/LICENSE)
+[![GitHub tag](https://img.shields.io/github/tag/alexnuttinck/gatsby-lepressoir.svg)](https://github.com/alexnuttinck/gatsby-lepressoir)
+[![GitHub stars](https://img.shields.io/github/stars/alexnuttinck/gatsby-lepressoir.svg)](https://github.com/alexnuttinck/gatsby-lepressoir/stargazers)
+![GitHub contributors](https://img.shields.io/github/contributors/alexnuttinck/gatsby-lepressoir.svg)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![code style prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 A [GatsbyJS](https://www.gatsbyjs.org/) website for *Le Pressoir SNC*. 
 
@@ -42,7 +42,7 @@ A ready to use, easy to customize [GatsbyJS](https://github.com/gatsbyjs/gatsby)
 
 ## Prerequisites
 
-If you do not have Gatsby Cli installed yet, do it first. Or use [Vagrant]().
+If you do not have Gatsby Cli installed yet, do it first. Or use [Vagrant](https://www.vagrantup.com/).
 
 ```text
 npm install --global gatsby-cli
@@ -151,15 +151,3 @@ Try editing the javascript pages in src/pages. Saved changes will live reload in
 ## Sources
 
 https://github.com/greglobinski/gatsby-starter-hero-blog
-
-[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
-[prs]: http://makeapullrequest.com
-[tag-badge]: https://img.shields.io/github/tag/alexnuttinck/gatsby-lepressoir.svg
-[tag]: https://github.com/alexnuttinck/gatsby-lepressoir
-[stars-badge]: https://img.shields.io/github/stars/alexnuttinck/gatsby-lepressoir.svg
-[stars]: https://github.com/alexnuttinck/gatsby-lepressoir/stargazers
-[contributors-badge]: https://img.shields.io/github/contributors/galexnuttinck/gatsby-lepressoir.svg
-[prettier-badge]: https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square
-[prettier]: https://github.com/prettier/prettier
-[mit-badge]: https://img.shields.io/github/license/alexnuttinck/gatsby-lepressoir.svg
-[mit]: https://github.com/alexnuttinck/gatsby-lepressoir/blob/master/LICENSE
